@@ -6,7 +6,7 @@ var path = require('path'),
     HTMLWebpackPlugin = require('html-webpack-plugin'),
     HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
     template: __dirname + '/index.html',
-    filename: path.join(__dirname, '..', 'index.html'),
+    filename: path.join(__dirname, '..', 'public', 'index.html'),
     inject: 'body'
 });
 

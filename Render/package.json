@@ -19,11 +19,16 @@
     "webpack-dev-server": "^1.15.1"
   },
   "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
   },
   "scripts": {
     "build": "./node_modules/.bin/webpack --config webpack/webpack.config.js",
-    "dev": "./node_modules/.bin/webpack-dev-server --config webpack/webpack.config.js --hot --inline"
+    "dev": "./node_modules/.bin/webpack-dev-server --config webpack/webpack.config.js --hot --inline",
+    "server": "node server/app"
   }
 }
