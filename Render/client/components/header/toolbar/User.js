@@ -9,20 +9,20 @@ export default class User extends React.Component {
                 </button>
                 <ul className="dropdown-menu-v2" role="menu">
                     <li>
-                        <a href="page_user_profile_1.html">
+                        <a href="/">
                             <i className="icon-user" ></i> My Profile
                             <span className="badge badge-danger">1</span>
                         </a>
                     </li>
                     <li>
-                        <a href="app_todo_2.html">
+                        <a href="/">
                             <i className="icon-rocket" ></i> My Algorithms
                             <span className="badge badge-success"> 7 </span>
                         </a>
                     </li>
                     <li className="divider"> </li>
                     <li>
-                        <a href="page_user_login_1.html">
+                        <a href="/">
                             <i className="icon-key" ></i> Log Out </a>
                     </li>
                 </ul>

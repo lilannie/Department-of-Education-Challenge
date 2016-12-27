@@ -4,7 +4,7 @@ export default class Actions extends React.Component {
     render() {
         return (
             <div className="btn-group-red btn-group">
-                <button type="button" className="btn btn-sm md-skip dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                <button id="toolbar-add" type="button" className="btn btn-sm md-skip dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
                     <i className="fa fa-plus" ></i>
                 </button>
                 <ul className="dropdown-menu-v2" role="menu">

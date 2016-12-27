@@ -10,9 +10,14 @@ export default class Nav extends React.Component {
                             <i className="icon-home" ></i> Dashboard
                         </a>
                         <ul className="dropdown-menu dropdown-menu-fw">
-                            <li className="active">
+                            <li >
                                 <a href="">
                                     <i className="icon-bar-chart" ></i> My Algorithms
+                                </a>
+                            </li>
+                            <li className="active">
+                                <a href="">
+                                    <i className="icon-bar-chart" ></i> Create An Algorithm
                                 </a>
                             </li>
                         </ul>

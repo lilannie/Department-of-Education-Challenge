@@ -9,7 +9,7 @@ import Nav from './header/nav/Nav';
 export default class Header extends React.Component {
     render() {
         return (
-            <div className="wrapper">
+
                 <header className="page-header">
                     <nav className="navbar mega-menu" role="navigation">
                         <div className="container-fluid">
@@ -26,7 +26,7 @@ export default class Header extends React.Component {
                         </div>
                     </nav>
                 </header>
-            </div>
+
         );
     }
     componentDidMount() {
