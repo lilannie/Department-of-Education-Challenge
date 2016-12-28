@@ -5280,7 +5280,7 @@ Customized Bootstrap Close Icon
   background-repeat: no-repeat !important;
   text-indent: -10000px;
   outline: none;
-  background-image: url("../img/remove-icon-small.png") !important; }
+  background-image: url("../images/remove-icon-small.png") !important; }
 
 /***
 Customized Bootstrap Dropdowns
@@ -7179,7 +7179,7 @@ Metro icons
   margin-top: 3px;
   line-height: 14px;
   vertical-align: top;
-  background-image: url(../img/syncfusion-icons.png);
+  background-image: url(../images/syncfusion-icons.png);
   background-position: 0 0;
   background-repeat: no-repeat; }
 
@@ -7189,7 +7189,7 @@ Metro icons
   height: 30px;
   margin: 6px;
   vertical-align: middle;
-  background-image: url(../img/syncfusion-icons.png);
+  background-image: url(../images/syncfusion-icons.png);
   background-position: 0 0px;
   background-repeat: no-repeat; }
 
@@ -7218,7 +7218,7 @@ Metro icons
 
 /* white icon */
 .m-icon-white {
-  background-image: url(../img/syncfusion-icons-white.png); }
+  background-image: url(../images/syncfusion-icons-white.png); }
 
 /*  Misc */
 .m-icon-swapright {
@@ -7423,7 +7423,7 @@ Customized Bootstrap Panels
       display: block;
       padding: 10px 15px; }
     .accordion .panel .panel-title .accordion-toggle.accordion-toggle-styled {
-      background: url("../img/accordion-plusminus.png") no-repeat;
+      background: url("../images/accordion-plusminus.png") no-repeat;
       background-position: right -19px;
       margin-right: 15px; }
     .accordion .panel .panel-title .accordion-toggle.accordion-toggle-styled.collapsed {
@@ -7577,22 +7577,22 @@ Portlets
         opacity: 1 ;
         filter: alpha(opacity=100) ; }
       .portlet > .portlet-title > .tools > a.remove {
-        background-image: url(../img/portlet-remove-icon.png);
+        background-image: url(../images/portlet-remove-icon.png);
         background-repeat: no-repeat;
         width: 11px; }
       .portlet > .portlet-title > .tools > a.config {
-        background-image: url(../img/portlet-config-icon.png);
+        background-image: url(../images/portlet-config-icon.png);
         background-repeat: no-repeat;
         width: 12px; }
       .portlet > .portlet-title > .tools > a.reload {
-        background-image: url(../img/portlet-reload-icon.png);
+        background-image: url(../images/portlet-reload-icon.png);
         width: 13px; }
       .portlet > .portlet-title > .tools > a.expand {
-        background-image: url(../img/portlet-expand-icon.png);
+        background-image: url(../images/portlet-expand-icon.png);
         width: 14px;
         visibility: visible; }
       .portlet > .portlet-title > .tools > a.collapse {
-        background-image: url(../img/portlet-collapse-icon.png);
+        background-image: url(../images/portlet-collapse-icon.png);
         width: 14px;
         visibility: visible; }
       .portlet > .portlet-title > .tools > a.fullscreen {
@@ -7692,15 +7692,15 @@ Portlets
     .portlet.box > .portlet-title > .caption {
       padding: 11px 0 9px 0; }
     .portlet.box > .portlet-title > .tools > a.remove {
-      background-image: url(../img/portlet-remove-icon-white.png); }
+      background-image: url(../images/portlet-remove-icon-white.png); }
     .portlet.box > .portlet-title > .tools > a.config {
-      background-image: url(../img/portlet-config-icon-white.png); }
+      background-image: url(../images/portlet-config-icon-white.png); }
     .portlet.box > .portlet-title > .tools > a.reload {
-      background-image: url(../img/portlet-reload-icon-white.png); }
+      background-image: url(../images/portlet-reload-icon-white.png); }
     .portlet.box > .portlet-title > .tools > a.expand {
-      background-image: url(../img/portlet-expand-icon-white.png); }
+      background-image: url(../images/portlet-expand-icon-white.png); }
     .portlet.box > .portlet-title > .tools > a.collapse {
-      background-image: url(../img/portlet-collapse-icon-white.png); }
+      background-image: url(../images/portlet-collapse-icon-white.png); }
     .portlet.box > .portlet-title > .tools > a.fullscreen {
       color: #fdfdfd; }
     .portlet.box > .portlet-title > .actions {
@@ -7851,19 +7851,19 @@ Custom colored portlets
     color: #666; }
 
 .portlet.solid.white > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.white > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.white > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.white > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.white > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.white > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -7903,19 +7903,19 @@ Custom colored portlets
     color: #666; }
 
 .portlet.solid.default > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.default > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.default > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.default > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.default > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.default > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -7955,19 +7955,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.dark > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.dark > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.dark > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.dark > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.dark > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.dark > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8007,19 +8007,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8059,19 +8059,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-madison > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-madison > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-madison > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-madison > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-madison > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-madison > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8111,19 +8111,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-chambray > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-chambray > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-chambray > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-chambray > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-chambray > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-chambray > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8163,19 +8163,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-ebonyclay > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-ebonyclay > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-ebonyclay > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-ebonyclay > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-ebonyclay > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-ebonyclay > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8215,19 +8215,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-hoki > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-hoki > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-hoki > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-hoki > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-hoki > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-hoki > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8267,19 +8267,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-steel > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-steel > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-steel > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-steel > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-steel > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-steel > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8319,19 +8319,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-soft > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-soft > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-soft > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-soft > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-soft > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-soft > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8371,19 +8371,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-dark > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-dark > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-dark > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-dark > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-dark > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-dark > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8423,19 +8423,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-sharp > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-sharp > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-sharp > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-sharp > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-sharp > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-sharp > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8475,19 +8475,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.blue-oleo > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.blue-oleo > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.blue-oleo > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.blue-oleo > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.blue-oleo > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.blue-oleo > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8527,19 +8527,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8579,19 +8579,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-meadow > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-meadow > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-meadow > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-meadow > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-meadow > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-meadow > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8631,19 +8631,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-seagreen > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-seagreen > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-seagreen > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-seagreen > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-seagreen > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-seagreen > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8683,19 +8683,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-turquoise > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-turquoise > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-turquoise > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-turquoise > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-turquoise > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-turquoise > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8735,19 +8735,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-haze > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-haze > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-haze > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-haze > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-haze > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-haze > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8787,19 +8787,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-jungle > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-jungle > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-jungle > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-jungle > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-jungle > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-jungle > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8839,19 +8839,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-soft > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-soft > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-soft > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-soft > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-soft > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-soft > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8891,19 +8891,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-dark > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-dark > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-dark > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-dark > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-dark > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-dark > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8943,19 +8943,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-sharp > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-sharp > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-sharp > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-sharp > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-sharp > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-sharp > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -8995,19 +8995,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.green-steel > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.green-steel > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.green-steel > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.green-steel > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.green-steel > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.green-steel > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9047,19 +9047,19 @@ Custom colored portlets
     color: #333333; }
 
 .portlet.solid.grey > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9099,19 +9099,19 @@ Custom colored portlets
     color: #80898e; }
 
 .portlet.solid.grey-steel > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-steel > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-steel > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-steel > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-steel > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-steel > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9151,19 +9151,19 @@ Custom colored portlets
     color: #333333; }
 
 .portlet.solid.grey-cararra > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-cararra > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-cararra > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-cararra > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-cararra > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-cararra > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9203,19 +9203,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.grey-gallery > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-gallery > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-gallery > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-gallery > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-gallery > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-gallery > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9255,19 +9255,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.grey-cascade > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-cascade > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-cascade > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-cascade > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-cascade > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-cascade > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9307,19 +9307,19 @@ Custom colored portlets
     color: #FAFCFB; }
 
 .portlet.solid.grey-silver > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-silver > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-silver > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-silver > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-silver > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-silver > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9359,19 +9359,19 @@ Custom colored portlets
     color: #FAFCFB; }
 
 .portlet.solid.grey-salsa > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-salsa > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-salsa > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-salsa > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-salsa > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-salsa > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9411,19 +9411,19 @@ Custom colored portlets
     color: #FAFCFB; }
 
 .portlet.solid.grey-salt > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-salt > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-salt > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-salt > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-salt > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-salt > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9463,19 +9463,19 @@ Custom colored portlets
     color: #FFFFFF; }
 
 .portlet.solid.grey-mint > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.grey-mint > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.grey-mint > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.grey-mint > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.grey-mint > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.grey-mint > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9515,19 +9515,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9567,19 +9567,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-pink > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-pink > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-pink > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-pink > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-pink > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-pink > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9619,19 +9619,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-sunglo > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-sunglo > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-sunglo > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-sunglo > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-sunglo > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-sunglo > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9671,19 +9671,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-intense > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-intense > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-intense > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-intense > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-intense > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-intense > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9723,19 +9723,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-thunderbird > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-thunderbird > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-thunderbird > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-thunderbird > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-thunderbird > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-thunderbird > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9775,19 +9775,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-flamingo > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-flamingo > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-flamingo > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-flamingo > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-flamingo > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-flamingo > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9827,19 +9827,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-soft > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-soft > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-soft > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-soft > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-soft > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-soft > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9879,19 +9879,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-haze > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-haze > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-haze > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-haze > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-haze > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-haze > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9931,19 +9931,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.red-mint > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.red-mint > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.red-mint > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.red-mint > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.red-mint > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.red-mint > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -9983,19 +9983,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10035,19 +10035,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-gold > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-gold > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-gold > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-gold > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-gold > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-gold > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10087,19 +10087,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-casablanca > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-casablanca > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-casablanca > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-casablanca > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-casablanca > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-casablanca > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10139,19 +10139,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-crusta > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-crusta > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-crusta > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-crusta > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-crusta > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-crusta > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10191,19 +10191,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-lemon > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-lemon > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-lemon > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-lemon > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-lemon > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-lemon > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10243,19 +10243,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-saffron > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-saffron > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-saffron > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-saffron > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-saffron > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-saffron > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10295,19 +10295,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-soft > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-soft > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-soft > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-soft > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-soft > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-soft > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10347,19 +10347,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-haze > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-haze > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-haze > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-haze > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-haze > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-haze > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10399,19 +10399,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.yellow-mint > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.yellow-mint > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.yellow-mint > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.yellow-mint > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.yellow-mint > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.yellow-mint > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10451,19 +10451,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10503,19 +10503,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-plum > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-plum > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-plum > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-plum > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-plum > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-plum > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10555,19 +10555,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-medium > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-medium > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-medium > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-medium > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-medium > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-medium > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10607,19 +10607,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-studio > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-studio > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-studio > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-studio > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-studio > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-studio > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10659,19 +10659,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-wisteria > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-wisteria > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-wisteria > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-wisteria > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-wisteria > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-wisteria > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10711,19 +10711,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-seance > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-seance > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-seance > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-seance > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-seance > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-seance > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10763,19 +10763,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-intense > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-intense > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-intense > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-intense > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-intense > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-intense > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10815,19 +10815,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-sharp > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-sharp > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-sharp > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-sharp > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-sharp > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-sharp > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -10867,19 +10867,19 @@ Custom colored portlets
     color: #ffffff; }
 
 .portlet.solid.purple-soft > .portlet-title > .tools > a.remove {
-  background-image: url(../img/portlet-remove-icon-white.png); }
+  background-image: url(../images/portlet-remove-icon-white.png); }
 
 .portlet.solid.purple-soft > .portlet-title > .tools > a.config {
-  background-image: url(../img/portlet-config-icon-white.png); }
+  background-image: url(../images/portlet-config-icon-white.png); }
 
 .portlet.solid.purple-soft > .portlet-title > .tools > a.reload {
-  background-image: url(../img/portlet-reload-icon-white.png); }
+  background-image: url(../images/portlet-reload-icon-white.png); }
 
 .portlet.solid.purple-soft > .portlet-title > .tools > a.expand {
-  background-image: url(../img/portlet-expand-icon-white.png); }
+  background-image: url(../images/portlet-expand-icon-white.png); }
 
 .portlet.solid.purple-soft > .portlet-title > .tools > a.collapse {
-  background-image: url(../img/portlet-collapse-icon-white.png); }
+  background-image: url(../images/portlet-collapse-icon-white.png); }
 
 .portlet.solid.purple-soft > .portlet-title > .tools > a.fullscreen {
   color: #fdfdfd; }
@@ -12416,79 +12416,79 @@ Social Icons
     .social-icons li:hover > a {
       background-position: 0 -38px; }
     .social-icons li .amazon {
-      background: url(../img/social/amazon.png) no-repeat; }
+      background: url(../images/social/amazon.png) no-repeat; }
     .social-icons li .behance {
-      background: url(../img/social/behance.png) no-repeat; }
+      background: url(../images/social/behance.png) no-repeat; }
     .social-icons li .blogger {
-      background: url(../img/social/blogger.png) no-repeat; }
+      background: url(../images/social/blogger.png) no-repeat; }
     .social-icons li .deviantart {
-      background: url(../img/social/deviantart.png) no-repeat; }
+      background: url(../images/social/deviantart.png) no-repeat; }
     .social-icons li .dribbble {
-      background: url(../img/social/dribbble.png) no-repeat; }
+      background: url(../images/social/dribbble.png) no-repeat; }
     .social-icons li .dropbox {
-      background: url(../img/social/dropbox.png) no-repeat; }
+      background: url(../images/social/dropbox.png) no-repeat; }
     .social-icons li .evernote {
-      background: url(../img/social/evernote.png) no-repeat; }
+      background: url(../images/social/evernote.png) no-repeat; }
     .social-icons li .facebook {
-      background: url(../img/social/facebook.png) no-repeat; }
+      background: url(../images/social/facebook.png) no-repeat; }
     .social-icons li .forrst {
-      background: url(../img/social/forrst.png) no-repeat; }
+      background: url(../images/social/forrst.png) no-repeat; }
     .social-icons li .github {
-      background: url(../img/social/github.png) no-repeat; }
+      background: url(../images/social/github.png) no-repeat; }
     .social-icons li .googleplus {
-      background: url(../img/social/googleplus.png) no-repeat; }
+      background: url(../images/social/googleplus.png) no-repeat; }
     .social-icons li .jolicloud {
-      background: url(../img/social/jolicloud.png) no-repeat; }
+      background: url(../images/social/jolicloud.png) no-repeat; }
     .social-icons li .last-fm {
-      background: url(../img/social/last-fm.png) no-repeat; }
+      background: url(../images/social/last-fm.png) no-repeat; }
     .social-icons li .linkedin {
-      background: url(../img/social/linkedin.png) no-repeat; }
+      background: url(../images/social/linkedin.png) no-repeat; }
     .social-icons li .picasa {
-      background: url(../img/social/picasa.png) no-repeat; }
+      background: url(../images/social/picasa.png) no-repeat; }
     .social-icons li .pintrest {
-      background: url(../img/social/pintrest.png) no-repeat; }
+      background: url(../images/social/pintrest.png) no-repeat; }
     .social-icons li .rss {
-      background: url(../img/social/rss.png) no-repeat; }
+      background: url(../images/social/rss.png) no-repeat; }
     .social-icons li .skype {
-      background: url(../img/social/skype.png) no-repeat; }
+      background: url(../images/social/skype.png) no-repeat; }
     .social-icons li .spotify {
-      background: url(../img/social/spotify.png) no-repeat; }
+      background: url(../images/social/spotify.png) no-repeat; }
     .social-icons li .stumbleupon {
-      background: url(../img/social/stumbleupon.png) no-repeat; }
+      background: url(../images/social/stumbleupon.png) no-repeat; }
     .social-icons li .tumblr {
-      background: url(../img/social/tumblr.png) no-repeat; }
+      background: url(../images/social/tumblr.png) no-repeat; }
     .social-icons li .twitter {
-      background: url(../img/social/twitter.png) no-repeat; }
+      background: url(../images/social/twitter.png) no-repeat; }
     .social-icons li .vimeo {
-      background: url(../img/social/vimeo.png) no-repeat; }
+      background: url(../images/social/vimeo.png) no-repeat; }
     .social-icons li .wordpress {
-      background: url(../img/social/wordpress.png) no-repeat; }
+      background: url(../images/social/wordpress.png) no-repeat; }
     .social-icons li .xing {
-      background: url(../img/social/xing.png) no-repeat; }
+      background: url(../images/social/xing.png) no-repeat; }
     .social-icons li .yahoo {
-      background: url(../img/social/yahoo.png) no-repeat; }
+      background: url(../images/social/yahoo.png) no-repeat; }
     .social-icons li .youtube {
-      background: url(../img/social/youtube.png) no-repeat; }
+      background: url(../images/social/youtube.png) no-repeat; }
     .social-icons li .vk {
-      background: url(../img/social/vk.png) no-repeat; }
+      background: url(../images/social/vk.png) no-repeat; }
     .social-icons li .instagram {
-      background: url(../img/social/instagram.png) no-repeat; }
+      background: url(../images/social/instagram.png) no-repeat; }
     .social-icons li .reddit {
-      background: url(../img/social/reddit.png) no-repeat; }
+      background: url(../images/social/reddit.png) no-repeat; }
     .social-icons li .aboutme {
-      background: url(../img/social/aboutme.png) no-repeat; }
+      background: url(../images/social/aboutme.png) no-repeat; }
     .social-icons li .flickr {
-      background: url(../img/social/flickr.png) no-repeat; }
+      background: url(../images/social/flickr.png) no-repeat; }
     .social-icons li .foursquare {
-      background: url(../img/social/foursquare.png) no-repeat; }
+      background: url(../images/social/foursquare.png) no-repeat; }
     .social-icons li .gravatar {
-      background: url(../img/social/gravatar.png) no-repeat; }
+      background: url(../images/social/gravatar.png) no-repeat; }
     .social-icons li .klout {
-      background: url(../img/social/klout.png) no-repeat; }
+      background: url(../images/social/klout.png) no-repeat; }
     .social-icons li .myspace {
-      background: url(../img/social/myspace.png) no-repeat; }
+      background: url(../images/social/myspace.png) no-repeat; }
     .social-icons li .quora {
-      background: url(../img/social/quora.png) no-repeat; }
+      background: url(../images/social/quora.png) no-repeat; }
   .social-icons.social-icons-color > li > a {
     opacity: 0.7;
     background-position: 0 -38px !important; }
@@ -12520,115 +12520,115 @@ Inline Social Icons
     border-radius: 25px !important; }
 
 .social-icon.amazon {
-  background: url(../img/social/amazon.png) no-repeat; }
+  background: url(../images/social/amazon.png) no-repeat; }
 
 .social-icon.behance {
-  background: url(../img/social/behance.png) no-repeat; }
+  background: url(../images/social/behance.png) no-repeat; }
 
 .social-icon.blogger {
-  background: url(../img/social/blogger.png) no-repeat; }
+  background: url(../images/social/blogger.png) no-repeat; }
 
 .social-icon.deviantart {
-  background: url(../img/social/deviantart.png) no-repeat; }
+  background: url(../images/social/deviantart.png) no-repeat; }
 
 .social-icon.dribbble {
-  background: url(../img/social/dribbble.png) no-repeat; }
+  background: url(../images/social/dribbble.png) no-repeat; }
 
 .social-icon.dropbox {
-  background: url(../img/social/dropbox.png) no-repeat; }
+  background: url(../images/social/dropbox.png) no-repeat; }
 
 .social-icon.evernote {
-  background: url(../img/social/evernote.png) no-repeat; }
+  background: url(../images/social/evernote.png) no-repeat; }
 
 .social-icon.facebook {
-  background: url(../img/social/facebook.png) no-repeat; }
+  background: url(../images/social/facebook.png) no-repeat; }
 
 .social-icon.forrst {
-  background: url(../img/social/forrst.png) no-repeat; }
+  background: url(../images/social/forrst.png) no-repeat; }
 
 .social-icon.github {
-  background: url(../img/social/github.png) no-repeat; }
+  background: url(../images/social/github.png) no-repeat; }
 
 .social-icon.googleplus {
-  background: url(../img/social/googleplus.png) no-repeat; }
+  background: url(../images/social/googleplus.png) no-repeat; }
 
 .social-icon.jolicloud {
-  background: url(../img/social/jolicloud.png) no-repeat; }
+  background: url(../images/social/jolicloud.png) no-repeat; }
 
 .social-icon.last-fm {
-  background: url(../img/social/last-fm.png) no-repeat; }
+  background: url(../images/social/last-fm.png) no-repeat; }
 
 .social-icon.linkedin {
-  background: url(../img/social/linkedin.png) no-repeat; }
+  background: url(../images/social/linkedin.png) no-repeat; }
 
 .social-icon.picasa {
-  background: url(../img/social/picasa.png) no-repeat; }
+  background: url(../images/social/picasa.png) no-repeat; }
 
 .social-icon.pintrest {
-  background: url(../img/social/pintrest.png) no-repeat; }
+  background: url(../images/social/pintrest.png) no-repeat; }
 
 .social-icon.rss {
-  background: url(../img/social/rss.png) no-repeat; }
+  background: url(../images/social/rss.png) no-repeat; }
 
 .social-icon.skype {
-  background: url(../img/social/skype.png) no-repeat; }
+  background: url(../images/social/skype.png) no-repeat; }
 
 .social-icon.spotify {
-  background: url(../img/social/spotify.png) no-repeat; }
+  background: url(../images/social/spotify.png) no-repeat; }
 
 .social-icon.stumbleupon {
-  background: url(../img/social/stumbleupon.png) no-repeat; }
+  background: url(../images/social/stumbleupon.png) no-repeat; }
 
 .social-icon.tumblr {
-  background: url(../img/social/tumblr.png) no-repeat; }
+  background: url(../images/social/tumblr.png) no-repeat; }
 
 .social-icon.twitter {
-  background: url(../img/social/twitter.png) no-repeat; }
+  background: url(../images/social/twitter.png) no-repeat; }
 
 .social-icon.vimeo {
-  background: url(../img/social/vimeo.png) no-repeat; }
+  background: url(../images/social/vimeo.png) no-repeat; }
 
 .social-icon.wordpress {
-  background: url(../img/social/wordpress.png) no-repeat; }
+  background: url(../images/social/wordpress.png) no-repeat; }
 
 .social-icon.xing {
-  background: url(../img/social/xing.png) no-repeat; }
+  background: url(../images/social/xing.png) no-repeat; }
 
 .social-icon.yahoo {
-  background: url(../img/social/yahoo.png) no-repeat; }
+  background: url(../images/social/yahoo.png) no-repeat; }
 
 .social-icon.youtube {
-  background: url(../img/social/youtube.png) no-repeat; }
+  background: url(../images/social/youtube.png) no-repeat; }
 
 .social-icon.vk {
-  background: url(../img/social/vk.png) no-repeat; }
+  background: url(../images/social/vk.png) no-repeat; }
 
 .social-icon.instagram {
-  background: url(../img/social/instagram.png) no-repeat; }
+  background: url(../images/social/instagram.png) no-repeat; }
 
 .social-icon.reddit {
-  background: url(../img/social/reddit.png) no-repeat; }
+  background: url(../images/social/reddit.png) no-repeat; }
 
 .social-icon.aboutme {
-  background: url(../img/social/aboutme.png) no-repeat; }
+  background: url(../images/social/aboutme.png) no-repeat; }
 
 .social-icon.flickr {
-  background: url(../img/social/flickr.png) no-repeat; }
+  background: url(../images/social/flickr.png) no-repeat; }
 
 .social-icon.foursquare {
-  background: url(../img/social/foursquare.png) no-repeat; }
+  background: url(../images/social/foursquare.png) no-repeat; }
 
 .social-icon.gravatar {
-  background: url(../img/social/gravatar.png) no-repeat; }
+  background: url(../images/social/gravatar.png) no-repeat; }
 
 .social-icon.klout {
-  background: url(../img/social/klout.png) no-repeat; }
+  background: url(../images/social/klout.png) no-repeat; }
 
 .social-icon.myspace {
-  background: url(../img/social/myspace.png) no-repeat; }
+  background: url(../images/social/myspace.png) no-repeat; }
 
 .social-icon.quora {
-  background: url(../img/social/quora.png) no-repeat; }
+  background: url(../images/social/quora.png) no-repeat; }
 
 .social-icon:hover {
   background-position: 0 -38px; }

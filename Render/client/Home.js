@@ -1,7 +1,7 @@
 import React from 'react';
 import './sass/app.scss';
 import Header from './components/Header';
-import CreateContainer  from './components/algorithm/CreateContainer';
+import AlgoCreateContainer  from './components/algorithm/AlgoCreateContainer';
 
 
 export default class Home extends React.Component {
@@ -9,7 +9,7 @@ export default class Home extends React.Component {
         return (
             <div className="wrapper">
                 <Header />
-                <CreateContainer/>
+                <AlgoCreateContainer/>
             </div>
         );
     }
