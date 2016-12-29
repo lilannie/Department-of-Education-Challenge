@@ -8,26 +8,29 @@ export default class AlgoToolbar extends React.Component {
                     <ul className="nav navbar-nav margin-bottom-35">
                         <li>
                             <a href="">
-                                <i className="icon-home"></i> Home </a>
+                                <i className="fa fa-home"></i> Home </a>
                         </li>
                         <li className="active">
                             <a href="">
-                                <i className="icon-note "></i> Data Structures </a>
+                                 Data Structures
+                            </a>
                         </li>
                         <li>
                             <a href="">
-                                <i className="icon-user"></i> Comparators </a>
+                                 Comparators
+                            </a>
                         </li>
                         <li>
                             <a href="">
-                                <i className="icon-basket "></i> Instructions </a>
+                                Algorithm
+                            </a>
                         </li>
                     </ul>
                     <h3>Quick Actions</h3>
                     <ul className="nav navbar-nav">
                         <li>
                             <a href="">
-                                <i className="icon-envelope "></i> Save
+                                <i className="fa fa-upload "></i> Save
                             </a>
                         </li>
                     </ul>

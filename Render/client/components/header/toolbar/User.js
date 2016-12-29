@@ -5,7 +5,7 @@ export default class User extends React.Component {
         return (
             <div className="btn-group-img btn-group">
                 <button type="button" className="btn btn-sm md-skip dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-                    <span>Hi, Marcus</span>
+                    <span>Hi, Annie</span>
                 </button>
                 <ul className="dropdown-menu-v2" role="menu">
                     <li>

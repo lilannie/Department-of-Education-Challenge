@@ -6,11 +6,11 @@ export default class DSCreateContainer extends React.Component {
     render() {
         return (
         <div className="col-md-12">
-            <h1 className="blue-ebonyclay">Data Structures</h1>
+            <div className="portlet light bordered">
+                <DSToolbar/>
 
-            <DSToolbar/>
-
-            <DSContainer type="Array" />
+                <DSContainer type="Array" />
+            </div>
         </div>
         );
     }
