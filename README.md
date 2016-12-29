@@ -1,1 +1,1 @@
-# Department-of-Education-Challenge
+# Custom Algorithm Visualizer
